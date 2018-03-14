@@ -1,0 +1,3 @@
+# About this...
+
+I'm sharpening my saw by learning Go and practicing TDD.
